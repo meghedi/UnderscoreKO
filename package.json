@@ -27,7 +27,7 @@
     "grunt-concat": "~0.1.6",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-concat": "~0.4.0",
-    "grunt-contrib-jasmine": "^1.0.0",
+    "grunt-contrib-jasmine": "^2.2.0",
     "grunt-min": "~0.1.0",
     "grunt-shell": "~0.7.0",
     "typescript": "~1.8.7",
