@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "underscore": "~1.8.3",
-    "knockout": "~3.4.0"
+    "knockout": "~3.5.1"
   },
   "devDependencies": {
     "bower": "~1.7.7",
