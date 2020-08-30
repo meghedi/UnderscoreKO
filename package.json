@@ -31,6 +31,6 @@
     "grunt-min": "~0.1.0",
     "grunt-shell": "~0.7.0",
     "typescript": "~1.8.7",
-    "typings": "~0.7.8"
+    "typings": "~2.1.1"
   }
 }
